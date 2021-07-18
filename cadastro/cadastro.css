@@ -1,0 +1,20 @@
+.cad {
+    padding-top: 5px;
+    padding-inline-end: 20px;
+    width: 250px;
+    padding-left: 20px;
+    border-style: double;
+    border-color:blue;
+    font-weight: bold;
+    border-radius: 20px;
+}
+
+.cad h1{
+    padding-left: 60px;
+}
+
+.b{
+    background-color:burlywood;
+    color: black;
+    
+}
